@@ -26,3 +26,8 @@ This repository contains a Power BI dashboard project for Blinkit, providing int
 
 ## 📄 License
 This project is open-source and available under the MIT License 
+
+## Screenshot
+<img width="1601" height="859" alt="Blinkit Dashboard" src="https://github.com/user-attachments/assets/3428dde5-90c1-4f4c-9aa9-577ddb8b7aed" />
+
+
